@@ -1,0 +1,2 @@
+我们最终要将Consumer程序集打成windows服务安装在生产环境下。
+Topshelf为我们提供了一组DSL描述的API来方便地创建windows服务。

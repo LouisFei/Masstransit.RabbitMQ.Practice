@@ -1,0 +1,2 @@
+可以通过Masstransit实现RPC调用，有点像webservice调用。
+不过在ESB的设计中应该尽量避免这种设计，特别是在异构系统之间，应该尽量采用send command pattern和publish/subscribe pattern.
